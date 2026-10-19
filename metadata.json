@@ -1,0 +1,6 @@
+{
+  "name": "Java Min-Max Sayı Bulucu - Enes Öztürk",
+  "description": "Klavyeden girilen N tane sayıdan en büyük ve en küçüğünü bulan Java programı, interaktif konsol simülatörü ve kaynak kodları.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
